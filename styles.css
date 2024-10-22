@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    background-color: #f4f4f4;
+}
+
+header {
+    background: #333;
+    color: #fff;
+    padding: 10px 0;
+    text-align: center;
+}
+
+section {
+    background: #fff;
+    margin: 20px 0;
+    padding: 15px;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+    color: #333;
+}
+
+.profile-pic {
+    width: 150px; /* Atur lebar gambar sesuai kebutuhan */
+    height: auto; /* Memastikan proporsi gambar tetap terjaga */
+    border-radius: 50%; /* Membuat gambar berbentuk bulat */
+    display: block;
+    margin: 10px auto; /* Memusatkan gambar */
+}
+
+footer {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 0.8em;
+}
